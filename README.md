@@ -1,8 +1,8 @@
 <p align="center"><img  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="" height="150"  ></p>
 <h1 align="center">Hi 👋, I'm Iresha Madhuwanthi</h1>
-<h3 align="center">I’m currently Undergraduate SE Student at Open University of Sri Lanka.</h3>
+<h3 align="center">I’m currently an Undergraduate SE Student at the Open University of Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ireshamadhuwanthi&label=Profile%20views&color=0e75b6&style=flat" alt="ireshamadhuwanthi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ireshamadhuwanthi&label=Profile%20views&color=0e75b6&style=flat" alt="ireshamadhuwanthi" /> </p>
 
 - 📫 How to reach me **iresha.m.rathnasiri@gmail.com**
 
