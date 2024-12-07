@@ -50,15 +50,17 @@
             <td>
                 <a href="https://github.com/IreshaMadhuwanthi">
                     <img align="center" src="https://github-readme-stats.vercel.app/api?username=IreshaMadhuwanthi&show_icons=true&hide_border=true&title_color=ffc857&amp&icon_color=8ac926&amp&text_color=daf7dc&amp&bg_color=151515&count_private=true&include_all_commits=true"/>
-                  </a>
+                </a>
             </td>
             <td>
                 <a href="https://github.com/IreshaMadhuwanthi">
-                    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreshaMadhuwanthi&text_color=daf7dc&bg_color=151515&title_color=ffc857&langs_count=15&layout=compact&hide_border=true" /> </a>
+                    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreshaMadhuwanthi&text_color=daf7dc&bg_color=151515&title_color=ffc857&langs_count=15&layout=compact&hide_border=true&count_private=true" />
+                </a>
             </td>
         </tr>
     </table>
 </div>
+
 
 <br>
 
