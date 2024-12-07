@@ -28,6 +28,9 @@
 <img width="250px" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,java,python,figma,mysql,postman,git&perline=7" />
 </p>
 <br>
+
+---
+
 <!--Github Status section start-->
 <p align="center">
   <img height="150" width="150" src="https://drive.google.com/uc?export=view&id=15DPCmEH_kPSxMDmHqgkFrw4TmmBUp5st">
@@ -36,41 +39,29 @@
 </p>
 
 <!--Github Status-->
+
 <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;GitHub Status </h3><br>
 <div align="center">
-<table>
-  <tr>
-    <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IreshaMadhuwanthi&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="IreshaMadhuwanthi's Github stats" />
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IreshaMadhuwanthi&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="IreshaMadhuwanthi's Github stats" />
-        </a>
-    </td>
-     
-  <!-- Github Repository Language Stats -->     
-  <td>
-          <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-          <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IreshaMadhuwanthi&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="IreshaMadhuwanthi's Language stats" />
-          </a>
-          <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-          <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IreshaMadhuwanthi&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="IreshaMadhuwanthi's Language stats" />
-          </a>
-      </td>
-  </tr>
-</table>
-</div>
 
+<br>
 
+<p align="center">
+  <a href="https://github.com/IreshaMadhuwanthi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IreshaMadhuwanthi&show_icons=true&hide_border=true&title_color=ffc857&amp&icon_color=8ac926&amp&text_color=daf7dc&amp&bg_color=151515&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/IreshaMadhuwanthi">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreshaMadhuwanthi&text_color=daf7dc&bg_color=151515&title_color=ffc857&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+<br>
 
-
-
+---
  <!--Git profile Trophies -->
 <h3 align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp; Git profile Trophies </h3><br>
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=IreshaMadhuwanthi&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
+---
 
 
 
