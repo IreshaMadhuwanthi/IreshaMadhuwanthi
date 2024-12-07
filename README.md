@@ -11,10 +11,11 @@
     <a href="https://www.linkedin.com/in/iresha-madhuwanthi-760512215" target="_blank">
         <img align="center" alt="Iresha's LinkedIn" width="40px" src="https://img.icons8.com/nolan/96/linkedin.png" />
     </a>
+    &nbsp;   &nbsp;<!-- Added space between the icons -->
     <a href="mailto:iresha.m.rathnasiri@gmail.com">
     <img align="center" alt="Iresha's Email" width="40px" src="https://img.icons8.com/nolan/96/email.png" />
     </a>
-    <br><br> <!-- Added space between the icons -->
+    <br><br> 
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=ireshamadhuwanthi&label=Profile%20views&color=0e75b6&style=flat" alt="ireshamadhuwanthi" />
     </p>
