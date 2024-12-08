@@ -1,4 +1,4 @@
-<p align="center"><img  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="" height="150"  ></p>
+<p align="center"><img  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="" height="200"  ></p>
 <h1 align="center">Hi 👋, I'm Iresha Madhuwanthi</h1>
 <h3 align="center"> Currently a BSE undergraduate student at the Open University of Sri Lanka.</h3>
 
