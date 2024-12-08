@@ -32,11 +32,12 @@
 ---
 
 <!--Github Status section start-->
-<p align="center">
-  <img height="150" width="150" src="https://drive.google.com/uc?export=view&id=15DPCmEH_kPSxMDmHqgkFrw4TmmBUp5st">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IreshaMadhuwanthi&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://drive.google.com/uc?export=view&id=1AIHYM3hS0cn9fXFoJTfT5zwek_rcVuNi">
+<p align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
+  <img height="150" width="150" src="https://drive.google.com/uc?export=view&id=15DPCmEH_kPSxMDmHqgkFrw4TmmBUp5st" alt="Profile Image 1" style="margin-bottom: -10px;">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IreshaMadhuwanthi&theme=dark&hide_border=true" style="max-width: 100%; height: auto;" alt="GitHub Streak Stats">
+  <img height="150" width="150" src="https://drive.google.com/uc?export=view&id=1AIHYM3hS0cn9fXFoJTfT5zwek_rcVuNi" alt="Profile Image 2" style="margin-top: -10px;">
 </p>
+
 
 <!--Github Status-->
 
