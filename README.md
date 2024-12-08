@@ -1,4 +1,4 @@
-<p align="center"><img  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="" height="200"  ></p>
+<p align="center"><img  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="" height="220"  ></p>
 <h1 align="center">Hi 👋, I'm Iresha Madhuwanthi</h1>
 <h3 align="center"> Currently a BSE undergraduate student at the Open University of Sri Lanka.</h3>
 
@@ -53,11 +53,12 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/IreshaMadhuwanthi">
+                <!--Most used languages-->
+                 <a href="https://github.com/IreshaMadhuwanthi">
                     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreshaMadhuwanthi&text_color=daf7dc&bg_color=151515&title_color=ffc857&langs_count=15&layout=compact&hide_border=true&count_private=true&cache_seconds=1800" />
                 </a>
             </td>
-        </tr>
+       </tr>
     </table>
 </div>
 
