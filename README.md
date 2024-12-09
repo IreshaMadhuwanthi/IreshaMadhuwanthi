@@ -15,10 +15,12 @@
     <a href="mailto:iresha.m.rathnasiri@gmail.com">
     <img align="center" alt="Iresha's Email" width="40px" src="https://img.icons8.com/nolan/96/email.png" />
     </a>
-    <br><br> 
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=ireshamadhuwanthi&label=Profile%20views&color=0e75b6&style=flat" alt="ireshamadhuwanthi" />
-    </p>
+    <br>
+   
+   <h5 align="center" style="color: #FF8C00;">Visitor's count 👀</h5>
+   <p align="center"><img src="https://profile-counter.glitch.me/IreshaMadhuwanthi/count.svg" alt="IreshaMadhuwanthi :: Visitor's Count" /></p>
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting.!&center=true&color=FF8C00&size=16&weight=1500)](https://github.com/tanyagupta0201)
 </div>
 
 ---
@@ -28,12 +30,14 @@
 <p align="center">
 <img width="250px" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,java,python,figma,mysql,postman,git&perline=7" />
 </p>
-<br>
 
 ---
 
 
 <!--Github Status section start-->
+<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;GitHub Stats </h3>
+<div align="center">
+<br>
 
 <table align="center">
     <tr>
@@ -44,8 +48,13 @@
     
 <!-- GitHub Status (Middle Image) -->
    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IreshaMadhuwanthi&theme=dark&hide_border=true" alt="GitHub Streak Stats">
-    </td>
+     
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IreshaMadhuwanthi&theme=dark&hide_border=true&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&background=0d1117" />
+</div>
+  
+</td>
     
 <!-- Right Image -->
    <td align="center" valign="top">
@@ -56,10 +65,6 @@
 
 
 <!--Github Status-->
-
-<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;GitHub Status </h3>
-<div align="center">
-<br>
 
 <div align="center">
     <table>
@@ -79,15 +84,10 @@
     </table>
 </div>
 
-
-
-<br>
-
 ---
 
-
  <!--Git profile Trophies -->
-<h3 align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp; Git profile Trophies </h3><br>
+<h3 align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" /> &nbsp; Git profile Trophies </h3>&nbsp;
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=IreshaMadhuwanthi&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
