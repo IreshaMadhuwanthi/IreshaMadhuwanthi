@@ -28,7 +28,7 @@
 <!-- Languages and Tools Section start-->       
 <h3 align="center">🛠️ Languages and Tools</h3> 
 <p align="center">
-<img width="250px" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,java,python,figma,mysql,postman,git&perline=7" />
+<img width="250px" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,java,python,figma,mysql,postman,git,github&perline=7" />
 </p>
 
 ---
