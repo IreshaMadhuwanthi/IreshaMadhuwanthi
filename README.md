@@ -6,7 +6,7 @@
 <!-------------------------------------------------------------------------- contact --------------------------------------------------------------------------------------------->   
 <div align="center">
     <div align="center">
-        <h3><b>Let's get in touch! </b></h3>
+        <h3 ><b>Let's get in touch ! </b></h3>
     </div>
     <a href="https://www.linkedin.com/in/iresha-madhuwanthi-760512215" target="_blank">
         <img align="center" alt="Iresha's LinkedIn" width="40px" src="https://img.icons8.com/nolan/96/linkedin.png" />
@@ -20,7 +20,7 @@
    <h5 align="center" style="color: #FF8C00;">Visitor's count 👀</h5>
    <p align="center"><img src="https://profile-counter.glitch.me/IreshaMadhuwanthi/count.svg" alt="IreshaMadhuwanthi :: Visitor's Count" /></p>
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting.!&center=true&color=FF8C00&size=16&weight=1500)](https://github.com/tanyagupta0201)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting.!&center=true&color=A010E7&size=18&weight=1500)](https://github.com/tanyagupta0201)
 </div>
 
 ---
